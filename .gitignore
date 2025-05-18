@@ -1,0 +1,31 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+".project" 
+".classpath" 
+".settings/" 
+".gradle/" 
+"bin/" 
+"build/" 
+"**/build/" 
+"dist/" 
+"**/dist/" 
+"**/node_modules/" 
+"**/.vscode/" 
+"**/.angular/" 
+"node_modules/" 
+"dist/" 
+".project" 
+".classpath" 
+".settings/" 
+".gradle/" 
+"bin/" 
+"build/" 
+"**/build/" 
+"dist/" 
+"**/dist/" 
+"**/node_modules/" 
+"**/.vscode/" 
+"**/.angular/" 
